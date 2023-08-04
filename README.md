@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/Arvind916/Arvind916/assets/113225852/51ee12ae-551c-49c7-9712-79ecfd0def77)
+![Header](https://github.com/Arvind916/Arvind916/assets/113225852/5ae1050f-ed11-4212-97ac-5837e0b5e4ff)
+
 
 
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
