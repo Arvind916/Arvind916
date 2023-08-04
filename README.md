@@ -1,5 +1,5 @@
 [![MasterHead](![github-header-image](https://github.com/Arvind916/Arvind916/assets/113225852/c0cb894b-16aa-4f48-a98c-694facdb5f16)
-)](https://arvindsha904.io)
+](https://arvindsha904.io)
 
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
