@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)](https://arvindsha904.io)
+[![MasterHead](![github-header-image](https://github.com/Arvind916/Arvind916/assets/113225852/c0cb894b-16aa-4f48-a98c-694facdb5f16)
+)](https://arvindsha904.io)
 
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
