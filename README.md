@@ -1,5 +1,5 @@
-![Header](./[![github-header-image](https://github.com/Arvind916/Arvind916/assets/113225852/51ee12ae-551c-49c7-9712-79ecfd0def77)
-])
+![github-header-image](https://github.com/Arvind916/Arvind916/assets/113225852/51ee12ae-551c-49c7-9712-79ecfd0def77)
+
 
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
