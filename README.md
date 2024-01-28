@@ -1,9 +1,10 @@
 ![Header](https://github.com/Arvind916/Arvind916/assets/113225852/a1adb10f-2f66-4e4c-90ec-0413c53404d5)
 
 
+
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Programming" width="500" height="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
+<img align="right" alt="Programming" width="500" height="300" ![portfolio_qrcode](https://github.com/Arvind916/Arvind916/assets/113225852/3f74c8a1-98c9-4530-92b0-d073bba1c770)" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind916&label=Profile%20views&color=0e75b6&style=flat" alt="arvind916" /> </p>
