@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate programmer from India</h3>
-![portfolio_qrcode](https://github.com/Arvind916/Arvind916/assets/113225852/3f74c8a1-98c9-4530-92b0-d073bba1c770)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind916&label=Profile%20views&color=0e75b6&style=flat" alt="arvind916" /> </p>
